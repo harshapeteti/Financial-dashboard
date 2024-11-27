@@ -1,8 +1,7 @@
 # Financial-dashboard
 Describes the financial health based on income, savings, credit card spending and loan payments through a small dataset
-## Setup Instructions
 
-To run this app locally, follow these steps:
+##Setup
 
 ### 1. clone the repository
 
