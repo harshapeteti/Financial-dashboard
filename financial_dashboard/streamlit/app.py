@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import plotly.express as px
-from scoring import finance_score  # Scoring function
+from scoring import finance_score  #scoring function
 
 @st.cache_data
 def load_data():
