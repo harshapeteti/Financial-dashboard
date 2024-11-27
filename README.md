@@ -10,7 +10,7 @@ git clone https://github.com/harshapeteti/financial-health-dashboard.git
 ```
 ### 2. install dependencies
 ```bash
-cd financial-health-dashboard
+cd financial-dashboard
 cd streamlit
 pip install -r requirements.txt
 ```
